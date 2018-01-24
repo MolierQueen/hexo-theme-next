@@ -16,6 +16,10 @@ menu:
   schedule: 日程表
   sitemap: 站点地图
   commonweal: 公益404
+  button1: zhang ji qi
+  button2: zhang ji qi
+  button3: zhang ji qi
+  button4: zhang ji qi
 
 sidebar:
   overview: 站点概览
@@ -33,7 +37,8 @@ post:
   visitors: 阅读次数
   wordcount: 字数统计
   min2read: 阅读时长
-  totalcount: Site words total count
+  totalcount: 站点总字数
+  totaltime: 站点总阅读时间
   copyright:
     author: 本文作者
     link: 本文链接
@@ -46,8 +51,8 @@ page:
   tags: 标签
 
 footer:
-  powered: "由 %s 强力驱动"
-  theme: 主题
+  powered: "茉莉儿的小站"
+  theme: "主题"
 
 counter:
   tag_cloud:
