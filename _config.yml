@@ -130,21 +130,21 @@ site_state: true
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
   #GitHub: https://github.com/yourname || github
-  #E-Mail: mailto:yourname@gmail.com || envelope
+  E-Mail: mailto:371099694@qq.com || envelope
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
   #VK Group: https://vk.com/yourname || vk
   #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
   #YouTube: https://youtube.com/yourname || youtube
-  Instagram: https://www.instagram.com/oliver_queen_zhang/ || instagram
-  新浪微博: https://weibo.com/zhangninghao?refer_flag=1005055010_
-  简书: https://www.jianshu.com/u/fd21f41fb522
-  掘金: https://juejin.im/user/586c624bac502e12d631545f
+  # Instagram: https://www.instagram.com/oliver_queen_zhang/ || instagram
+  新浪微博: https://weibo.com/zhangninghao?refer_flag=1005055010_ || weibo
+  简书: https://www.jianshu.com/u/fd21f41fb522 || superpowers
+  掘金: https://juejin.im/user/586c624bac502e12d631545f || juejin
   #Skype: skype:yourname?call|chat || skype
 
 social_icons:
-  enable: false
+  enable: true
   icons_only: false
   transition: false
 
