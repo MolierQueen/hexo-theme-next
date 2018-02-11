@@ -375,20 +375,20 @@ han: false
 #baidu_analytics:
 
 # Disqus
-disqus:
-  enable: false
-  shortname: OliverQueen
-  count: true
-  lazyload: false
+# disqus:
+#   enable: false
+#   shortname: OliverQueen
+#   count: true
+#   lazyload: false
 
 # Hypercomments
-# hypercomments_id: 100934
+hypercomments_id: 100934
 
 # changyan
-changyan:
-  enable: false
-  appid:
-  appkey:
+# changyan:
+#   enable: false
+#   appid: cytsGzIMa
+#   appkey: prod_3d4fad818c078df2b27de8eeaa403947
 
 
 # Valine.
@@ -412,7 +412,7 @@ changyan:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-livere_uid: MTAyMC8zMzQ5My8xMDA0OQ==
+# livere_uid: MTAyMC8zMzQ5My8xMDA0OQ==
 
 # Gitment
 # Introduction: https://imsun.net/posts/gitment-introduction/
@@ -501,8 +501,8 @@ google_site_verification: KAj10O4WT-YoszaSxxDUTKP4VzNZxQwduVLhOojJJ7U
 # https://github.com/iissnan/hexo-theme-next/pull/410
 facebook_sdk:
   enable:       false
-  app_id:       #<app_id>
-  fb_admin:     #<user_id>
+  app_id:       408148456281149
+  fb_admin:     100011097421984
   like_button:  #true
   webmaster:    #true
 
@@ -528,8 +528,9 @@ vkontakte_api:
 # To get your ID visit https://widgetpack.com
 rating:
   enable: false
-  id:     #<app_id>
+  id:     9621
   color:  fc6423
+
 # ---------------------------------------------------------------
 
 # Show number of visitors to each article.
