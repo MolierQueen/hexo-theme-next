@@ -457,21 +457,21 @@ gitment:
 #           Technorati,Posterous,Tumblr,GoogleBookmarks,Newsvine,
 #           Evernote,Friendfeed,Vkontakte,Odnoklassniki,Mailru
 needmoreshare2:
-  enable: false
+  enable: true
   postbottom:
-    enable: false
+    enable: true
     options:
       iconStyle: box
       boxForm: horizontal
       position: bottomCenter
-      networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
-  float:
-    enable: false
-    options:
-      iconStyle: box
-      boxForm: horizontal
-      position: middleRight
-      networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
+      networks: Weibo,Wechat,Douban,Facebook,Twitter,Linkedin
+  # float:
+  #   enable: true
+  #   options:
+  #     iconStyle: box
+  #     boxForm: horizontal
+  #     position: middleRight
+  #     networks: Weibo,Wechat,Douban,Facebook,Twitter,Linkedin
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
