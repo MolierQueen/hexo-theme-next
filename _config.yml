@@ -156,11 +156,12 @@ social_icons:
 
 # Blog rolls
 links_icon: link
-links_title: Links
+links_title: Friends
 links_layout: block
 #links_layout: inline
-#links:
-  #Title: http://example.com/
+links:
+  reuixiy: https://reuixiy.github.io/
+  CMB: http://billchan.me/
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
